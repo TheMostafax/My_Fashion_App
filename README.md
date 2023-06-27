@@ -32,6 +32,7 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 
 <hr>
 
+
 <h4 align="center">Folder Structure</h4>
 
 ```
