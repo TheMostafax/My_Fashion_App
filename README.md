@@ -132,8 +132,8 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 
 In the command terminal, run the following commands:
 
-    $ git clone https://https://github.com/TheMostafax/My_Phones_Store.git my_phones_store
-    $ cd my_phones_store/
+    $ git clone https://https://github.com/TheMostafax/My_Fashion_App.git my_fashion_app
+    $ cd my_fashion_app/
     $ flutter packages get
     $ flutter run
     
