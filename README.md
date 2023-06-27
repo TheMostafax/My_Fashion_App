@@ -76,7 +76,6 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 <h1 align="center">The GUI</h1>
 
 
-
 <h3 align="center">First screen</h3>
 
 
