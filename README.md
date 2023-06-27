@@ -73,7 +73,8 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 <h3 align="center">First screen</h3>
 
 
-![First Screen](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/dacdea05-d8f7-4278-8daa-d5b1f44476dd)
+![first screen](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/16ed0799-72ed-4936-9a2a-13f41102ba91)
+
 
 
 
@@ -81,30 +82,44 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 
 <h3 align="center">Home page</h3>
 
-![Home page](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/db8603da-bec4-4b24-bd96-21f10ca9efcd)
 
-
-<hr>
-
-<h3 align="center">Drawer</h3>
-
-![Drawer](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/5df4192d-cf08-41d0-9940-770c3af18407)
+![home page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/ace4ab44-9d82-4cce-b8e9-a451ff61bf51)
 
 
 
 <hr>
+
+<h3 align="center">Login page</h3>
+
+
+![login page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/90eddb6a-fec1-4253-98ef-59abc8b9750d)
+
+
+
+<hr>
+
+<h3 align="center">Sign Up page</h3>
+
+![signup](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/7d4deed0-c72b-4ad3-9792-b8249bd8c4ce)
+
+
+
+<hr>
+
 
 <h3 align="center">All products page</h3>
 
 
-![All products page](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/9b150fcc-c048-4974-8597-8cd6579ce3ca)
+![all products page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/3233af47-b88c-411f-abb3-b706b6bf8e19)
+
 
 
 <hr>
 
 <h3 align="center">Details products page</h3>
 
-![Product details](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/aa76f9e0-2f41-4ee3-a8ba-3d49d72d6a4b)
+
+![product details page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/1af2aa45-ce49-419c-b8bf-9b72d34c01b4)
 
 
 
@@ -113,7 +128,8 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 <h3 align="center">About page </h3>
 
 
-![About page](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/0e92b97b-766d-44ed-8882-76961d5cf452)
+![about us](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/d0ec30b1-7b67-4098-ac53-a5f45b79e0f1)
+
 
 
 <hr>
