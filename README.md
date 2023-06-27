@@ -3,7 +3,6 @@
   
   ![my fashion app](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/ec160df3-df4a-454c-a8ef-04d44238aa40)
 
-
 </p>
 
 <h1 align="center">Project Description </h1>
