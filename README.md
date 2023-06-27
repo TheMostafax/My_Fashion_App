@@ -55,6 +55,7 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
     |       └── product_list_screen.dart
     |       └── products.dart
     |   ├── services/
+    |       └── cart_provider.dart
     |       └── product_service.dart
     └── main.dart
 
