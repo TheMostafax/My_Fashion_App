@@ -29,7 +29,7 @@ My fashion app is a responsive mobile application that is designed to provide a 
 
 The app also includes a search engine that allows users to search for specific products based on their preferences.
 
-Overall, your fashion app is designed to provide a user-friendly and engaging shopping experience for your customers.
+Overall, My fashion app is designed to provide a user-friendly and engaging shopping experience for customers.
 
 <hr>
 
