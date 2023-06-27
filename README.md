@@ -59,7 +59,7 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 
 
 
-https://github.com/TheMostafax/My_Phones_Store/assets/81190585/dd04d2ec-dcef-430f-811b-44306f3ad375
+
 
 
 
