@@ -79,7 +79,7 @@ class _About extends State<About> {
                   ),
                   SizedBox(height: 20),
                   Text(
-                    'My Fashion App is the ultimate fashion app for all fashion lovers. With Fashionista, you can browse the latest fashion trends, get fashion tips and advice, and create your own fashion looks. Whether you’re a fashion blogger, a stylist, or just someone who loves fashion, My Fashion App has everything you need to stay up-to-date and look your best.',
+                    'My Fashion App is the ultimate fashion app for all fashion lovers. You can browse the latest fashion trends, get fashion tips and advice, and create your own fashion looks. Whether you’re a fashion blogger, a stylist, or just someone who loves fashion, My Fashion App has everything you need to stay up-to-date and look your best.',
                     style: TextStyle(
                       fontSize: 18,
                       color: Colors.grey[600],
