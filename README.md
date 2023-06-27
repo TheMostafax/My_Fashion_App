@@ -37,7 +37,7 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 
 ```
 
-└── my_phones_store/
+└── my_fashion_app/
     ├── lib/
     |   ├── models/
     |       └── auth.dart
