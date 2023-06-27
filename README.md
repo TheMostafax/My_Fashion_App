@@ -141,8 +141,17 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 
 <h3 align="center">Device Preview: iPhone 12 mini </h3>
 
+
 <hr>
 
+
+<h1 align="center" style="color:red;">Notes</h1>
+<h4 align="left">1. The app is still in the development phase and is not yet finished.</h4>
+<h4 align="left">2. I am currently working on improving the cart mechanism to ensure a seamless checkout process for users.</h4>
+<h4 align="left">3. The search engine is also being improved to provide better search results and filtering options for users.</h4>
+<h4 align="left">4. The app will be connected to the user's Firebase account to provide secure login and account management features..</h4>
+
+<hr>
 ## Author
 **Mostafa Hassan**
 
