@@ -152,6 +152,7 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 <h4 align="left">4. The app will be connected to the user's Firebase account to provide secure login and account management features..</h4>
 
 <hr>
+
 ## Author
 **Mostafa Hassan**
 
