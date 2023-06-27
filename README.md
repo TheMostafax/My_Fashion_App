@@ -87,7 +87,6 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 
 
 
-
 <hr>
 
 <h3 align="center">Home page</h3>
