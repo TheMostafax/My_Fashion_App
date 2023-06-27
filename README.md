@@ -122,7 +122,6 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 ![all products page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/3233af47-b88c-411f-abb3-b706b6bf8e19)
 
 
-
 <hr>
 
 <h3 align="center">Details products page</h3>
@@ -131,14 +130,12 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 ![product details page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/1af2aa45-ce49-419c-b8bf-9b72d34c01b4)
 
 
-
 <hr>
 
 <h3 align="center">About Us page</h3>
 
 
 ![about us](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/d0ec30b1-7b67-4098-ac53-a5f45b79e0f1)
-
 
 
 <hr>
