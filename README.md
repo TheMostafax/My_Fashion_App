@@ -125,7 +125,7 @@ Overall, My fashion app is designed to provide a user-friendly and engaging shop
 
 <hr>
 
-<h3 align="center">About page </h3>
+<h3 align="center">About Us page</h3>
 
 
 ![about us](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/d0ec30b1-7b67-4098-ac53-a5f45b79e0f1)
