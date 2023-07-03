@@ -7,7 +7,6 @@
 
 <h1 align="center">Project Description </h1>
 
-
 My fashion app is a responsive mobile application developed using Flutter framework which is designed to provide a seamless user experience for customers who shop for fashion items.  The app is optimized for mobile devices and offers a clean and visually appealing interface. Here are the different pages of your app and their respective roles:
 
 1.  First Screen: This is the initial screen that users will see when they launch the app.
